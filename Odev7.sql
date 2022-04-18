@@ -16,3 +16,8 @@ SELECT  country_id, Count(*) FROM city
 GROUP BY country_id
 ORDER BY Count(*) DESC 
 LIMIT 1;
+
+Değişim
+
+
+

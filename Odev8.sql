@@ -52,8 +52,3 @@ WHERE email NOT LIKE '%.com';
 
 DELETE FROM employe
 WHERE name LIKE 'A%';
-
-
-
-
-

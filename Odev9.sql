@@ -11,4 +11,4 @@ INNER JOIN payment ON customer.customer_id = payment.customer_id;
 SELECT customer.first_name,customer.last_name,rental.rental_id
 FROM rental
 INNER JOIN customer ON customer.customer_id = rental.customer_id;
-[patika.dev](www.patika.dev)
+    [patika.dev](www.patika.dev)
